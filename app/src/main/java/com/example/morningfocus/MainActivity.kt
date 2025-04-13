@@ -783,7 +783,7 @@ fun BlockedSitesDialog(
                         
                         if (newSiteText.isEmpty()) {
                             Text(
-                                text = "Enter website domain (e.g., facebook.com)",
+                                text = "Enter website domain (e.g., twitter.com)",
                                 style = TextStyle(
                                     fontSize = 16.sp,
                                     color = Color.Gray
