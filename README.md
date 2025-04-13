@@ -7,6 +7,6 @@ Download the apk file and you are good to go!
 
 ## Preview of the app
 
-![alt text](previews/MorningFocus_main.jpg =100x20)
-![alt text](previews/MorningFocus_website_block.jpg =100x20)
-![alt text](previews/MorningFocus_app_block.jpg =100x20)
+<img src="previews/MorningFocus_main.jpg" width="200"/>
+<img src="previews/MorningFocus_website_block.jpg" width="200"/>
+<img src="previews/MorningFocus_app_block.jpg" width="200"/>
