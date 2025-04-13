@@ -1,3 +1,8 @@
+## About
+The app can block chrome websites and a list of apps in a selected time window. 
+It needs accessiblity permissions to read chrome urls from the screen.
+
+## Downloading the android apk
 The apk file is located in the following path
 ```
 APK_build/MorningFocus.apk
